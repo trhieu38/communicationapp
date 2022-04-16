@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Sadə Kontaktlar</string>
+    <string name="app_launcher_name">Kontaktlar</string>
+    <string name="address">Ünvan</string>
+    <string name="inserting">Daxil edilir…</string>
+    <string name="updating">Yenilənir…</string>
+    <string name="phone_storage">Telefon yaddaşı</string>
+    <string name="phone_storage_hidden">Telefon yaddaşı (digər tətbiqlərə görünmür)</string>
+    <string name="company">Şirkət</string>
+    <string name="job_position">İş vəziyyəti</string>
+    <string name="website">Vebsayt</string>
+    <string name="send_sms_to_contacts">Kontaktlara SMS göndər</string>
+    <string name="send_email_to_contacts">Kontaktlara e-poçt göndər</string>
+    <string name="send_sms_to_group">Grupa SMS göndər</string>
+    <string name="send_email_to_group">Grupa e-poçt göndər</string>
+    <string name="call_person">%s şəxsinə zng et</string>
+    <string name="request_the_required_permissions">Lazım olan icazələri istə</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="add_to_existing_contact">Add to an existing contact</string>
+    <string name="must_make_default_dialer">You have to make this app the default dialer app to make use of blocked numbers.</string>
+    <string name="set_as_default">Set as default</string>
+
+    <!-- Placeholders -->
+    <string name="no_contacts_found">No contacts found.</string>
+    <string name="no_contacts_with_emails">No contacts with emails have been found</string>
+    <string name="no_contacts_with_phone_numbers">No contacts with phone numbers have been found</string>
+
+    <string name="new_contact">Yeni kontakt</string>
+    <string name="edit_contact">Redaktə et</string>
+    <string name="select_contact">Kontakt seç</string>
+    <string name="select_contacts">Kontaktları seç</string>
+    <string name="first_name">Ad</string>
+    <string name="middle_name">Orta Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="nickname">Nickname</string>
+
+    <!-- Groups -->
+    <string name="no_groups">Qruplar yoxdur</string>
+    <string name="create_new_group">Yeni qrup yarat</string>
+    <string name="remove_from_group">Qrupdan sil</string>
+    <string name="no_group_participants">Bu qrup boşdur</string>
+    <string name="add_contacts">Kontaktlar əlavə et</string>
+    <string name="no_group_created">Cihazda heçbir kontakt qrupu yoxdur</string>
+    <string name="create_group">Qrup yarat</string>
+    <string name="add_to_group">Qrupa əlavə et</string>
+    <string name="create_group_under_account">Hesab altında qrup yarat</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Şəkil çək</string>
+    <string name="choose_photo">Şəkil seç</string>
+    <string name="remove_photo">Şəkli sil</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Ada soyaddan başla</string>
+    <string name="show_phone_numbers">Telefon nömrələrini əsas ekranda göstər</string>
+    <string name="show_contact_thumbnails">Kontakt görüntülərini göstər</string>
+    <string name="show_dialpad_button">Show a dialpad button on the main screen</string>
+    <string name="on_contact_click">Kontakta toxunduqda</string>
+    <string name="call_contact">Kontakta zəng et</string>
+    <string name="view_contact">Kontakt detallarına bax</string>
+    <string name="manage_shown_contact_fields">Göstərilən kontakt sahəsini idarə et</string>
+    <string name="filter_duplicates">Təkrarlanmış kontaktları filtrləməyə çalış</string>
+    <string name="manage_shown_tabs">Göstərilən nişanları idarə et</string>
+    <string name="contacts">Kontaktlar</string>
+    <string name="favorites">Sevimlilər</string>
+    <string name="show_call_confirmation_dialog">Zəngə başlamazdan əvvəl zəng təsdiq pəncərəsi göstər</string>
+    <string name="show_only_contacts_with_numbers">Show only contacts with phone numbers</string>
+    <string name="show_dialpad_letters">Show letters on the dialpad</string>
+
+    <!-- Emails -->
+    <string name="email">E-poçt</string>
+    <string name="home">Ev</string>
+    <string name="work">İş</string>
+    <string name="other">Başqa</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Nömrə</string>
+    <string name="mobile">Mobil</string>
+    <string name="main_number">Əsas</string>
+    <string name="work_fax">İş Faksı</string>
+    <string name="home_fax">Ev Faksı</string>
+    <string name="pager">Zəng cihazı</string>
+    <string name="no_phone_number_found">Heçbir telefon nömrəsi tapılmadı</string>
+
+    <!-- Events -->
+    <string name="birthday">Ad günü</string>
+    <string name="anniversary">İl dönümü</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Görünür, hələlik heçbir sevimli kontakt əlavə etməmisiniz.</string>
+    <string name="add_favorites">Sevimlilər əlavə et</string>
+    <string name="add_to_favorites">Sevimlilərə əlavə et</string>
+    <string name="remove_from_favorites">Sevimlilərdən sil</string>
+    <string name="must_be_at_edit">Kontaktı dəyişmək üçün İdarə et ekranında olmalısınız</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Kontaktları axtar</string>
+    <string name="search_favorites">Sevimliləri axtar</string>
+    <string name="search_groups">Search groups</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Kontaktları daxil et</string>
+    <string name="export_contacts">Kontaktları xaric et</string>
+    <string name="import_contacts_from_vcf">.vcf faylından kontaktları daxil et</string>
+    <string name="export_contacts_to_vcf">.vcf faylından kontaktları xaric et</string>
+    <string name="target_contact_source">Kontakt kökünü nişanla</string>
+    <string name="include_contact_sources">Kontakt köklərini daxil et</string>
+    <string name="filename_without_vcf">Fayl adı (.vcf olmadan)</string>
+
+    <!-- Dialpad -->
+    <string name="dialpad">Dialpad</string>
+    <string name="add_number_to_contact">Add number to contact</string>
+
+    <!-- Dialer -->
+    <string name="dialer">Dialer</string>
+    <string name="calling">Calling</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="incoming_call_from">Incoming call from…</string>
+    <string name="ongoing_call">Ongoing call</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="decline_call">Decline</string>
+    <string name="answer_call">Answer</string>
+
+    <!-- Visible fields -->
+    <string name="select_fields_to_show">Göstərmək üçün sahəni seç</string>
+    <string name="prefix">Ön şəkilçi</string>
+    <string name="suffix">Orta şəkilçi</string>
+    <string name="phone_numbers">Telefon nömrələri</string>
+    <string name="emails">E-poçtlar</string>
+    <string name="addresses">Ünvanlar</string>
+    <string name="events">Hadisələr (ad günləri, il dönümləri)</string>
+    <string name="notes">Qeydlər</string>
+    <string name="organization">Təşkilat</string>
+    <string name="websites">Vebsaytlar</string>
+    <string name="groups">Qruplar </string>
+    <string name="contact_source">Kontakt kökü</string>
+    <string name="instant_messaging">Instant messaging (IM)</string>
+
+    <!-- Blocked numbers -->
+    <string name="manage_blocked_numbers">Manage blocked numbers</string>
+    <string name="not_blocking_anyone">You are not blocking anyone.</string>
+    <string name="add_a_blocked_number">Add a blocked number</string>
+    <string name="block_number">Block number</string>
+    <string name="block_numbers">Block numbers</string>
+    <string name="blocked_numbers">Blocked numbers</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_contacts_confirmation">Are you sure you want to delete %s?</string>    <!-- Are you sure you want to delete 5 contacts? -->
+    <string name="delete_from_all_sources">The contact will be removed from all contact sources.</string>
+
+    <!-- Are you sure you want to delete 5 contacts? -->
+    <plurals name="delete_contacts">
+        <item quantity="one">%d contact</item>
+        <item quantity="other">%d contacts</item>
+    </plurals>
+
+    <plurals name="delete_groups">
+        <item quantity="one">%d group</item>
+        <item quantity="other">%d groups</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">I want to change what fields are visible at contacts. Can I do it?</string>
+    <string name="faq_1_text">Yes, all you have to do is go in Settings -> Manage shown contact fields. There you can select what fields should be visible. Some of them are even disabled by default, so you might find some new ones there.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Contacts Pro - Manage your contacts easily</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">An app for managing your contacts without ads, respecting your privacy.</string>
+    <string name="app_long_description">
+        A simple app for creating or managing your contacts from any source. The contacts can be stored on your device only, but also synchronized via Google, or other accounts. You can display your favorite contacts on a separate list.
+
+        You can use it for managing user emails and events too. It has the ability to sort/filter by multiple parameters, optionally display surname as the first name.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

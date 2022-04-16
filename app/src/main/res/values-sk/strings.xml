@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Jednoduché kontakty</string>
+    <string name="app_launcher_name">Kontakty</string>
+    <string name="address">Adresa</string>
+    <string name="inserting">Vytvára sa…</string>
+    <string name="updating">Upravuje sa…</string>
+    <string name="phone_storage">Úložisko mobilu</string>
+    <string name="phone_storage_hidden">Úložisko mobilu (neviditeľné pre ostatné apky)</string>
+    <string name="company">Firma</string>
+    <string name="job_position">Pracovná pozícia</string>
+    <string name="website">Webstránka</string>
+    <string name="send_sms_to_contacts">Poslať kontaktom SMS</string>
+    <string name="send_email_to_contacts">Poslať kontaktom email</string>
+    <string name="send_sms_to_group">Poslať skupine SMS</string>
+    <string name="send_email_to_group">Poslať skupine email</string>
+    <string name="call_person">Zavolať %s</string>
+    <string name="request_the_required_permissions">Vyžiadať potrebné oprávnenia</string>
+    <string name="create_new_contact">Vytvoriť nový kontakt</string>
+    <string name="add_to_existing_contact">Pridať k existujúcemu kontaktu</string>
+    <string name="must_make_default_dialer">Pre použitie blokovania čísel musíte nastaviť aplikáciu ako predvolenú pre správu hovorov.</string>
+    <string name="set_as_default">Nastaviť ako predvolenú</string>
+
+    <!-- Placeholders -->
+    <string name="no_contacts_found">Nenašli sa žiadne kontakty.</string>
+    <string name="no_contacts_with_emails">Nenašli sa žiadne kontakty s emailami</string>
+    <string name="no_contacts_with_phone_numbers">Nenašli sa žiadne kontakty s telefónnymi číslami</string>
+
+    <string name="new_contact">Nový kontakt</string>
+    <string name="edit_contact">Upraviť kontakt</string>
+    <string name="select_contact">Zvoľte kontakt</string>
+    <string name="select_contacts">Zvoľte kontakty</string>
+    <string name="first_name">Krstné meno</string>
+    <string name="middle_name">Stredné meno</string>
+    <string name="surname">Priezvisko</string>
+    <string name="nickname">Prezývka</string>
+
+    <!-- Groups -->
+    <string name="no_groups">Žiadne skupiny</string>
+    <string name="create_new_group">Vytvoriť novú skupinu</string>
+    <string name="remove_from_group">Odstrániť zo skupiny</string>
+    <string name="no_group_participants">Skupina je prázdna</string>
+    <string name="add_contacts">Pridať kontakty</string>
+    <string name="no_group_created">Nemáte v zariadení vytvorené žiadne skupiny kontaktov</string>
+    <string name="create_group">Vytvoriť skupinu</string>
+    <string name="add_to_group">Pridať do skupiny</string>
+    <string name="create_group_under_account">Vytvoriť skupinu pod účet</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Vytvoriť foto</string>
+    <string name="choose_photo">Zvoliť foto</string>
+    <string name="remove_photo">Odstrániť foto</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Začať meno priezviskom</string>
+    <string name="show_phone_numbers">Zobraziť telefónne čísla na hlavnej obrazovke</string>
+    <string name="show_contact_thumbnails">Zobraziť obrázky kontaktov</string>
+    <string name="show_dialpad_button">Zobraziť tlačidlo pre číselník na hlavnej obrazovke</string>
+    <string name="on_contact_click">Po kliknutí na kontakt</string>
+    <string name="call_contact">Zavolať kontakt</string>
+    <string name="view_contact">Zobraziť údaje kontaktu</string>
+    <string name="manage_shown_contact_fields">Spravovať zobrazené polia kontaktov</string>
+    <string name="filter_duplicates">Pokúsiť sa vyfiltrovať duplicitné kontakty</string>
+    <string name="manage_shown_tabs">Spravovať zobrazené karty</string>
+    <string name="contacts">Kontakty</string>
+    <string name="favorites">Obľúbené</string>
+    <string name="show_call_confirmation_dialog">Zobraziť pred spustením hovoru okno na jeho potvrdenie</string>
+    <string name="show_only_contacts_with_numbers">Zobraziť iba kontakty s telefónnymi číslami</string>
+    <string name="show_dialpad_letters">Zobraziť na číselníku písmená</string>
+
+    <!-- Emails -->
+    <string name="email">Email</string>
+    <string name="home">Domov</string>
+    <string name="work">Práca</string>
+    <string name="other">Iné</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Číslo</string>
+    <string name="mobile">Mobil</string>
+    <string name="main_number">Hlavné</string>
+    <string name="work_fax">Pracovný fax</string>
+    <string name="home_fax">Domáci fax</string>
+    <string name="pager">Pager</string>
+    <string name="no_phone_number_found">Nenašlo sa žiadne telefónne číslo</string>
+
+    <!-- Events -->
+    <string name="birthday">Narodeniny</string>
+    <string name="anniversary">Výročie</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Zdá sa, že ste ešte nepridali žiadne obľúbené kontakty.</string>
+    <string name="add_favorites">Pridať obľúbené</string>
+    <string name="add_to_favorites">Pridať medzi obľúbené</string>
+    <string name="remove_from_favorites">Odstrániť z obľúbených</string>
+    <string name="must_be_at_edit">Pre úpravu kontaktu musíte byť v Editore kontaktu</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Hľadať v kontaktoch</string>
+    <string name="search_favorites">Hľadať medzi obľúbenými</string>
+    <string name="search_groups">Hľadať medzi skupinami</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Importovať kontakty</string>
+    <string name="export_contacts">Exportovať kontakty</string>
+    <string name="import_contacts_from_vcf">Importovať kontakty z .vcf súboru</string>
+    <string name="export_contacts_to_vcf">Exportovať kontakty do .vcf súboru</string>
+    <string name="target_contact_source">Cieľový zdroj kontaktov</string>
+    <string name="include_contact_sources">Zahrnúť zdroje kontaktov</string>
+    <string name="filename_without_vcf">Názov súboru (bez .vcf)</string>
+
+    <!-- Dialpad -->
+    <string name="dialpad">Číselník</string>
+    <string name="add_number_to_contact">Pridať číslo kontaktu</string>
+
+    <!-- Dialer -->
+    <string name="dialer">Telefón</string>
+    <string name="calling">Vytáča sa</string>
+    <string name="incoming_call">Prichádzajúci hovor</string>
+    <string name="incoming_call_from">Prichádzajúci hovor od…</string>
+    <string name="ongoing_call">Prebiehajúci hovor</string>
+    <string name="disconnected">Ukončený hovor</string>
+    <string name="decline_call">Odmietnuť</string>
+    <string name="answer_call">Prijať</string>
+
+    <!-- Visible fields -->
+    <string name="select_fields_to_show">Zvoľte polia na zobrazenie</string>
+    <string name="prefix">Titul pred menom</string>
+    <string name="suffix">Titul za priezviskom</string>
+    <string name="phone_numbers">Telefónne čísla</string>
+    <string name="emails">Emaily</string>
+    <string name="addresses">Adresy</string>
+    <string name="events">Udalosti (narodeniny, výročia)</string>
+    <string name="notes">Poznámky</string>
+    <string name="organization">Firma</string>
+    <string name="websites">Webstránky</string>
+    <string name="groups">Skupiny</string>
+    <string name="contact_source">Zdroje kontaktov</string>
+    <string name="instant_messaging">Rýchle správy (IM)</string>
+
+    <!-- Blocked numbers -->
+    <string name="manage_blocked_numbers">Spravovať blokované čísla</string>
+    <string name="not_blocking_anyone">Neblokujete nikoho.</string>
+    <string name="add_a_blocked_number">Pridať blokované číslo</string>
+    <string name="block_number">Blokovať číslo</string>
+    <string name="block_numbers">Blokovať čísla</string>
+    <string name="blocked_numbers">Blokované čísla</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_contacts_confirmation">Ste si istý, že chcete vymazať %s?</string>    <!-- Are you sure you want to delete 5 contacts? -->
+    <string name="delete_from_all_sources">Kontakt bude vymazaný zo všetkých zdrojov kontaktov.</string>
+
+    <!-- Are you sure you want to delete 5 contacts? -->
+    <plurals name="delete_contacts">
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="other">%d kontaktov</item>
+    </plurals>
+
+    <plurals name="delete_groups">
+        <item quantity="one">%d skupinu</item>
+        <item quantity="few">%d skupiny</item>
+        <item quantity="other">%d skupín</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Chcem upraviť viditeľné polia kontaktov. Dá sa to?</string>
+    <string name="faq_1_text">Áno, stačí ísť do Nastavenia -> Spravovať zobrazené polia kontaktov. Tam si viete zvoliť, ktoré polia majú byť viditeľné. Niektoré sú v predvolenom stave vypnuté, čiže tam môžete objaviť aj nové.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Jednoduché kontakty Pro - Rýchla správa kontaktov</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Apka na správu vašich kontaktov bez reklám, rešpektujúca vaše súkromie.</string>
+    <string name="app_long_description">
+        Jednoduchá aplikácia na vytváranie, alebo správu vašich kontaktov z rôznych zdrojov. Môžu byť uložené buď iba vo vašom zariadení, alebo ich môžete aj synchronizovať cez Google, alebo iný účet. Vaše obľúbené položky viete zobraziť vo vlastnom zozname.
+
+        Viete ju používať aj na správu emailov a udalostí kontaktov. Ponúka možnosť zoradenia/filtrovania pomocou rôznych parametrov, voliteľné je zobrazovanie priezviska ako prvého mena.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

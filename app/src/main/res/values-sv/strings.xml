@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Simple Contacts</string>
+    <string name="app_launcher_name">Kontakter</string>
+    <string name="address">Adress</string>
+    <string name="inserting">Lägger till…</string>
+    <string name="updating">Uppdaterar…</string>
+    <string name="phone_storage">Telefonens lagringsutrymme</string>
+    <string name="phone_storage_hidden">Telefonens lagringsutrymme (inte synligt för andra appar)</string>
+    <string name="company">Företag</string>
+    <string name="job_position">Befattning</string>
+    <string name="website">Webbplats</string>
+    <string name="send_sms_to_contacts">Skicka sms till kontakter</string>
+    <string name="send_email_to_contacts">Skicka e-post till kontakter</string>
+    <string name="send_sms_to_group">Skicka sms till grupp</string>
+    <string name="send_email_to_group">Skicka e-post till grupp</string>
+    <string name="call_person">Ring %s</string>
+    <string name="request_the_required_permissions">Begär de behörigheter som krävs</string>
+    <string name="create_new_contact">Skapa ny kontakt</string>
+    <string name="add_to_existing_contact">Lägg till i en befintlig kontakt</string>
+    <string name="must_make_default_dialer">Du måste ställa in den här appen som standardtelefonapp för att kunna använda blockerade nummer.</string>
+    <string name="set_as_default">Ange som standard</string>
+
+    <!-- Placeholders -->
+    <string name="no_contacts_found">Inga kontakter hittades.</string>
+    <string name="no_contacts_with_emails">Inga kontakter med e-postadresser hittades</string>
+    <string name="no_contacts_with_phone_numbers">Inga kontakter med telefonnummer hittades</string>
+
+    <string name="new_contact">Ny kontakt</string>
+    <string name="edit_contact">Redigera kontakt</string>
+    <string name="select_contact">Välj kontakt</string>
+    <string name="select_contacts">Välj kontakter</string>
+    <string name="first_name">Förnamn</string>
+    <string name="middle_name">Mellannamn</string>
+    <string name="surname">Efternamn</string>
+    <string name="nickname">Smeknamn</string>
+
+    <!-- Groups -->
+    <string name="no_groups">Inga grupper</string>
+    <string name="create_new_group">Skapa en ny grupp</string>
+    <string name="remove_from_group">Ta bort från grupp</string>
+    <string name="no_group_participants">Denna grupp är tom</string>
+    <string name="add_contacts">Lägg till kontakter</string>
+    <string name="no_group_created">Det finns inga kontaktgrupper på enheten</string>
+    <string name="create_group">Skapa grupp</string>
+    <string name="add_to_group">Lägg till i grupp</string>
+    <string name="create_group_under_account">Skapa gruppen i kontot</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Ta foto</string>
+    <string name="choose_photo">Välj foto</string>
+    <string name="remove_photo">Ta bort foto</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Visa efternamn först</string>
+    <string name="show_phone_numbers">Visa telefonnummer i huvudvyn</string>
+    <string name="show_contact_thumbnails">Visa kontaktminiatyrer</string>
+    <string name="show_dialpad_button">Visa en knappsatsknapp i huvudvyn</string>
+    <string name="on_contact_click">Vid kontakttryckning</string>
+    <string name="call_contact">Ring kontakt</string>
+    <string name="view_contact">Visa kontaktuppgifter</string>
+    <string name="manage_shown_contact_fields">Välj vilka kontaktfält som ska visas</string>
+    <string name="filter_duplicates">Försök filtrera bort dubblettkontakter</string>
+    <string name="manage_shown_tabs">Välj vilka flikar som ska visas</string>
+    <string name="contacts">Kontakter</string>
+    <string name="favorites">Favoriter</string>
+    <string name="show_call_confirmation_dialog">Visa en bekräftelsedialogruta före uppringning</string>
+    <string name="show_only_contacts_with_numbers">Visa bara kontakter med telefonnummer</string>
+    <string name="show_dialpad_letters">Visa bokstäver på knappsatsen</string>
+
+    <!-- Emails -->
+    <string name="email">E-post</string>
+    <string name="home">Hem</string>
+    <string name="work">Arbete</string>
+    <string name="other">Annat</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Nummer</string>
+    <string name="mobile">Mobil</string>
+    <string name="main_number">Primärt nummer</string>
+    <string name="work_fax">Arbetsfax</string>
+    <string name="home_fax">Hemfax</string>
+    <string name="pager">Personsökare</string>
+    <string name="no_phone_number_found">Inget telefonnummer hittades</string>
+
+    <!-- Events -->
+    <string name="birthday">Födelsedag</string>
+    <string name="anniversary">Årsdag</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Det verkar som att du inte har lagt till några favoritkontakter ännu.</string>
+    <string name="add_favorites">Lägg till favoriter</string>
+    <string name="add_to_favorites">Lägg till i favoriter</string>
+    <string name="remove_from_favorites">Ta bort från favoriter</string>
+    <string name="must_be_at_edit">Kontakter kan bara redigeras i redigeringsvyn</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Sök efter kontakter</string>
+    <string name="search_favorites">Sök efter favoriter</string>
+    <string name="search_groups">Sök efter grupper</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Importera kontakter</string>
+    <string name="export_contacts">Exportera kontakter</string>
+    <string name="import_contacts_from_vcf">Importera kontakter från en .vcf-fil</string>
+    <string name="export_contacts_to_vcf">Exportera kontakter till en .vcf-fil</string>
+    <string name="target_contact_source">Målkontaktkälla</string>
+    <string name="include_contact_sources">Inkludera kontaktkällor</string>
+    <string name="filename_without_vcf">Filnamn (utan .vcf)</string>
+
+    <!-- Dialpad -->
+    <string name="dialpad">Knappsats</string>
+    <string name="add_number_to_contact">Lägg till nummer i kontakt</string>
+
+    <!-- Dialer -->
+    <string name="dialer">Telefon</string>
+    <string name="calling">Ringer</string>
+    <string name="incoming_call">Inkommande samtal</string>
+    <string name="incoming_call_from">Inkommande samtal från…</string>
+    <string name="ongoing_call">Pågående samtal</string>
+    <string name="disconnected">Frånkopplad</string>
+    <string name="decline_call">Avvisa</string>
+    <string name="answer_call">Svara</string>
+
+    <!-- Visible fields -->
+    <string name="select_fields_to_show">Välj vilka fält som ska visas</string>
+    <string name="prefix">Prefix</string>
+    <string name="suffix">Suffix</string>
+    <string name="phone_numbers">Telefonnummer</string>
+    <string name="emails">E-postadresser</string>
+    <string name="addresses">Adresser</string>
+    <string name="events">Händelser (födelsedagar, årsdagar)</string>
+    <string name="notes">Anteckningar</string>
+    <string name="organization">Organisation</string>
+    <string name="websites">Webbplatser</string>
+    <string name="groups">Grupper</string>
+    <string name="contact_source">Kontaktkälla</string>
+    <string name="instant_messaging">Snabbmeddelanden (IM)</string>
+
+    <!-- Blocked numbers -->
+    <string name="manage_blocked_numbers">Hantera blockerade nummer</string>
+    <string name="not_blocking_anyone">Du blockerar inte någon.</string>
+    <string name="add_a_blocked_number">Lägg till ett blockerat nummer</string>
+    <string name="block_number">Blockera nummer</string>
+    <string name="block_numbers">Blockera nummer</string>
+    <string name="blocked_numbers">Blockerade nummer</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_contacts_confirmation">Är du säker på att du vill ta bort %s?</string>    <!-- Are you sure you want to delete 5 contacts? -->
+    <string name="delete_from_all_sources">Kontakten kommer att tas bort från alla kontaktkällor.</string>
+
+    <!-- Are you sure you want to delete 5 contacts? -->
+    <plurals name="delete_contacts">
+        <item quantity="one">%d kontakt</item>
+        <item quantity="other">%d kontakter</item>
+    </plurals>
+
+    <plurals name="delete_groups">
+        <item quantity="one">%d grupp</item>
+        <item quantity="other">%d grupper</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">I want to change what fields are visible at contacts. Can I do it?</string>
+    <string name="faq_1_text">Yes, all you have to do is go in Settings -> Manage shown contact fields. There you can select what fields should be visible. Some of them are even disabled by default, so you might find some new ones there.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Contacts Pro - Manage your contacts easily</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">En app för att hantera dina kontakter utan reklam, respekterar din integritet.</string>
+    <string name="app_long_description">
+        En enkel app för att skapa och hantera kontakter från olika källor. Kontakterna kan lagras bara på din enhet, men kan också synkroniseras med ditt Google-konto eller andra konton. Du kan visa dina favoritkontakter i en separat lista.
+
+        Du kan också använda den för att hantera dina kontakters e-postadresser och händelser. Den kan sortera och filtrera efter flera parametrar. Den kan också visa efternamn först.
+
+        Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
+
+        Denna app är bara en del av en större serie appar. Du hittar resten av dem på https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

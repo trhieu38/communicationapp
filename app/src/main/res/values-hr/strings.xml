@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Jednostavni kontakti</string>
+    <string name="app_launcher_name">Kontakti</string>
+    <string name="address">Adresa</string>
+    <string name="inserting">Dodavanje…</string>
+    <string name="updating">Ažuriranje…</string>
+    <string name="phone_storage">Pohrana na telefonu</string>
+    <string name="phone_storage_hidden">Pohrana na telefonu (nije vidljiva drugim aplikacijama))</string>
+    <string name="company">Tvrtka</string>
+    <string name="job_position">Radno mjesto</string>
+    <string name="website">Web stranica</string>
+    <string name="send_sms_to_contacts">Pošalji SMS kontaktima</string>
+    <string name="send_email_to_contacts">Pošalji e-poštu kontaktima</string>
+    <string name="send_sms_to_group">Pošalji SMS grupi</string>
+    <string name="send_email_to_group">Pošalji e-poštu grupi</string>
+    <string name="call_person">Nazovi %s</string>
+    <string name="request_the_required_permissions">Zatraži potrebna dopuštenja</string>
+    <string name="create_new_contact">Stvori novi kontakt</string>
+    <string name="add_to_existing_contact">Dodaj postojećem kontaktu</string>
+    <string name="must_make_default_dialer">Morate napraviti ovu aplikaciju zadanom aplikacijom za biranje da biste bili u mogućnosti koristiti blokirane brojeve.</string>
+    <string name="set_as_default">Postavi na zadano</string>
+
+    <!-- Placeholders -->
+    <string name="no_contacts_found">Nisu pronađeni kontakti.</string>
+    <string name="no_contacts_with_emails">Nije pronađen nijedan kontakt s e-poštom</string>
+    <string name="no_contacts_with_phone_numbers">Nisu pronađeni kontakti s telefonskim brojevima</string>
+
+    <string name="new_contact">Novi kontakt</string>
+    <string name="edit_contact">Uredi kontakt</string>
+    <string name="select_contact">Odaberi kontakt</string>
+    <string name="select_contacts">Odaberi kontakte</string>
+    <string name="first_name">Ime</string>
+    <string name="middle_name">Srednje ime</string>
+    <string name="surname">Prezime</string>
+    <string name="nickname">Nadimak</string>
+
+    <!-- Groups -->
+    <string name="no_groups">Nema grupa</string>
+    <string name="create_new_group">Stvori novu grupu</string>
+    <string name="remove_from_group">Ukloni iz grupe</string>
+    <string name="no_group_participants">Ova grupa je prazna</string>
+    <string name="add_contacts">Dodaj kontakte</string>
+    <string name="no_group_created">Na uređaju nema grupa kontakata</string>
+    <string name="create_group">Stvori grupu</string>
+    <string name="add_to_group">Dodaj u grupu</string>
+    <string name="create_group_under_account">Stvorite grupu pod računom</string>
+
+    <!-- Photo -->
+    <string name="take_photo">Uslikaj</string>
+    <string name="choose_photo">Odaberi fotografiju</string>
+    <string name="remove_photo">Ukloni fotografiju</string>
+
+    <!-- Settings -->
+    <string name="start_name_with_surname">Započnite imena s prezimenima</string>
+    <string name="show_phone_numbers">Prikaži telefonske brojeve na glavnom zaslonu</string>
+    <string name="show_contact_thumbnails">Prikaži sličice kontakata</string>
+    <string name="show_dialpad_button">Show a dialpad button on the main screen</string>
+    <string name="on_contact_click">Prilikom dodira kontakta</string>
+    <string name="call_contact">Nazovi kontakt</string>
+    <string name="view_contact">Prikaži pojedinosti o kontaktu</string>
+    <string name="manage_shown_contact_fields">Upravljaj prikazanim poljima kontakta</string>
+    <string name="filter_duplicates">Pokušaj filtrirati duple kontakte</string>
+    <string name="manage_shown_tabs">Upravljaj prikazanim karticama</string>
+    <string name="contacts">Kontakti</string>
+    <string name="favorites">Favoriti</string>
+    <string name="show_call_confirmation_dialog">Pokažite dijaloški okvir za potvrdu poziva prije pokretanja poziva</string>
+    <string name="show_only_contacts_with_numbers">Prikaži samo kontakte s telefonskim brojevima</string>
+    <string name="show_dialpad_letters">Prikaži slova na telefonskoj tipkovnici</string>
+
+    <!-- Emails -->
+    <string name="email">E-pošta</string>
+    <string name="home">Kućni</string>
+    <string name="work">Posao</string>
+    <string name="other">Ostalo</string>
+
+    <!-- Phone numbers -->
+    <string name="number">Broj</string>
+    <string name="mobile">Mobilni</string>
+    <string name="main_number">Glavni</string>
+    <string name="work_fax">Poslovni fax</string>
+    <string name="home_fax">Kućni fax</string>
+    <string name="pager">Pager</string>
+    <string name="no_phone_number_found">Nije pronađen nijedan telefonski broj</string>
+
+    <!-- Events -->
+    <string name="birthday">Rođendan</string>
+    <string name="anniversary">Obljetnica</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Čini se da još niste dodali nijedan kontakt u favorite.</string>
+    <string name="add_favorites">Dodaj favorite</string>
+    <string name="add_to_favorites">Dodaj u favorite</string>
+    <string name="remove_from_favorites">Ukloni iz favorita</string>
+    <string name="must_be_at_edit">Morate biti na zaslonu Uređivanje da biste izmijenili kontakt</string>
+
+    <!-- Search -->
+    <string name="search_contacts">Pretraži kontakte</string>
+    <string name="search_favorites">Pretraži favorite</string>
+    <string name="search_groups">Search groups</string>
+
+    <!-- Export / Import -->
+    <string name="import_contacts">Uvezi kontakte</string>
+    <string name="export_contacts">Izvezi kontakte</string>
+    <string name="import_contacts_from_vcf">Uvoz kontakata iz .vcf datoteke</string>
+    <string name="export_contacts_to_vcf">Izvoz kontakata u .vcf datoteku</string>
+    <string name="target_contact_source">Ciljani izvor kontakta</string>
+    <string name="include_contact_sources">Uključi izvore kontakta</string>
+    <string name="filename_without_vcf">Naziv datoteke (bez .vcf)</string>
+
+    <!-- Dialpad -->
+    <string name="dialpad">Telefonska tipkovnica</string>
+    <string name="add_number_to_contact">Dodaj broj u kontakt</string>
+
+    <!-- Dialer -->
+    <string name="dialer">Birač broja</string>
+    <string name="calling">Pozivanje</string>
+    <string name="incoming_call">Dolazni poziv</string>
+    <string name="incoming_call_from">Dolazni poziv od...</string>
+    <string name="ongoing_call">Poziv u tijeku</string>
+    <string name="disconnected">Prekinuto</string>
+    <string name="decline_call">Odbij</string>
+    <string name="answer_call">Odgovori</string>
+
+    <!-- Visible fields -->
+    <string name="select_fields_to_show">Odaberi polja za prikaz</string>
+    <string name="prefix">Prefiks</string>
+    <string name="suffix">Sufiks</string>
+    <string name="phone_numbers">Brojevi telefona</string>
+    <string name="emails">E-pošte</string>
+    <string name="addresses">Adrese</string>
+    <string name="events">Događaji (rođendani, godišnjice)</string>
+    <string name="notes">Bilješke</string>
+    <string name="organization">Organizacije</string>
+    <string name="websites">Web stranice</string>
+    <string name="groups">Grupe</string>
+    <string name="contact_source">Izvori kontakata</string>
+    <string name="instant_messaging">Brzo slanje poruka (IM)</string>
+
+    <!-- Blocked numbers -->
+    <string name="manage_blocked_numbers">Upravljanje blokiranim brojevima</string>
+    <string name="not_blocking_anyone">Ne blokirate nikoga.</string>
+    <string name="add_a_blocked_number">Dodaj blokirani broj</string>
+    <string name="block_number">Blokiraj broj</string>
+    <string name="block_numbers">Blokiraj brojeve</string>
+    <string name="blocked_numbers">Blokirani brojevi</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_contacts_confirmation">Are you sure you want to delete %s?</string>    <!-- Are you sure you want to delete 5 contacts? -->
+    <string name="delete_from_all_sources">The contact will be removed from all contact sources.</string>
+
+    <!-- Are you sure you want to delete 5 contacts? -->
+    <plurals name="delete_contacts">
+        <item quantity="one">%d contact</item>
+        <item quantity="other">%d contacts</item>
+    </plurals>
+
+    <plurals name="delete_groups">
+        <item quantity="one">%d group</item>
+        <item quantity="other">%d groups</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Želim promijeniti polja koja su vidljiva na kontaktima. Mogu li to napraviti?</string>
+    <string name="faq_1_text">Da, sve što morate učiniti je otići u Postavke -> Upravljanje poljima za prikaz. Tamo možete odabrati polja koja bi trebala biti vidljiva. Neka od njih su čak i onemogućena prema zadanim postavkama, tako da možete pronaći neke nove.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Contacts Pro - Manage your contacts easily</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Aplikacija za upravljanje kontaktima, bez oglasa, poštujući Vašu privatnost.</string>
+    <string name="app_long_description">
+        Jednostavna aplikacija za izradu ili upravljanje kontaktima iz bilo kojeg izvora. Kontakti mogu biti pohranjeni samo na Vašem uređaju, ali i sinkronizirani putem Googlea ili drugih računa. Možete prikazati svoje omiljene kontakte na zasebnom popisu.
+
+        Možete ju koristiti za upravljanje e-poštom i događajima. Ima mogućnost sortirati/filtrirati višestrukim parametrima, po želji može prikazati prezime prvo, zatim ime.
+
+        Ne sadrži oglase ili nepotrebne dozvole. Aplikacije je otvorenog koda, pruža prilagodljive boje.
+
+        Ova je aplikacija samo dio većeg broja aplikacija. Možete pronaći ostatak na https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

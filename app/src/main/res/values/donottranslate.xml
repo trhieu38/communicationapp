@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="package_name">com.simplemobiletools.contacts.pro</string>
+
+    <string name="im">IM</string>
+    <string name="aim">AIM</string>
+    <string name="windows_live">Windows Live</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="skype">Skype</string>
+    <string name="qq">QQ</string>
+    <string name="hangouts">Hangouts</string>
+    <string name="icq">ICQ</string>
+    <string name="jabber">Jabber</string>
+    <string name="telegram">Telegram</string>
+
+    <!-- Release notes -->
+    <string name="release_47">Đã xóa cài đặt để hợp nhất các liên hệ trùng lặp, luôn luôn hợp nhất chúng</string>
+    <string name="release_40">
+        Đã xóa tab Gần đây do các chính sách bảo mật mới nhất của Googles \ nghiêm ngặt hơn so với suy nghĩ ban đầu \
+        và Cho phép hiển thị các chữ cái trên bàn phím quay số
+    </string>
+    <string name="release_39">Thay đổi cách liên hệ được tìm nạp, vui lòng đặt lại bộ lọc của bạn.</string>
+    <string name="release_34">Đã thêm tùy chọn mới để chuyển đổi định dạng thời gian 24 giờ và chỉ hiển thị danh bạ với số điện thoại</string>
+    <string name="release_32">Đã thêm một bàn phím đơn giản, trình quay số sẽ đến sớm</string>
+    <string name="release_31">
+        Đã thêm trường IM tùy chọn \ n
+        Đã thêm hỗ trợ cho các loại số điện thoại / email / địa chỉ tùy chỉnh
+    </string>
+    <string name="release_29">Đã thêm biệt danh tùy chọn</string>
+    <string name="release_27">
+       Cho phép tùy chỉnh các tab nào hiển thị \ n
+       Đã thêm hộp thoại xác nhận cuộc gọi tùy chọn
+    </string>
+    <string name="release_16">
+        Đã thêm tiền tố tên / hậu tố và tổ chức liên hệ \ n
+        Đã thêm một mục cài đặt \ "Quản lý các trường liên hệ được hiển thị \" để tùy chỉnh các chi tiết liên lạc hiển thị, với một số trường bị tắt theo mặc định
+    </string>
+    <string name="release_11">Đã thêm trường Địa chỉ và Ghi chú</string>
+    <string name="release_10">Cho phép lưu trữ danh bạ trong cơ sở dữ liệu cục bộ, ẩn khỏi các ứng dụng khác</string>
+
+    <string name="groups_placeholder">%1$s (%2$s)</string>
+
+</resources>
